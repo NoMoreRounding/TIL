@@ -12,7 +12,7 @@
 
 ex)
 ```bash
-> ./init.sh                                                            ─╯
+> ./init.sh
 Welcome to Easy-TIL (ver 0.1)
 For initial setting, please input your name and github nickname
 Name : 박찬호
@@ -31,7 +31,7 @@ Github Nickname : charlieppark
 
 ex)
 ```bash
-> ./.config/commit.sh                                                  ─╯
+> ./.config/commit.sh
 Choose a file you wanna commit :
 1) TIL/charlieppark/
 #? (여기에 커서가 위치한다. 커밋하고자 하는 1을 입력)
