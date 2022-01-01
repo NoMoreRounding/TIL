@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=F2F5A9&height=80&section=header&text=T&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L)
+![header](https://capsule-render.vercel.app/api?type=soft&color=F2F5A9&height=20&section=header)
 
 # Today I Learned
 
@@ -27,4 +27,4 @@ nohup <program> > <log_file> 2>&1 &
 
 새해랍시고 해돋이를 보러 갔다. 건강한 한 해, 즐거운 한 해, 생산성 넘치는 한 해, 결실이 생기는 한 해가 되길.
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=F2F5A9&height=10&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=F2F5A9&height=20&section=footer)
