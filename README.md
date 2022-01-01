@@ -1,6 +1,14 @@
 # TIL
 
+---
+
+---
+
 ## HOW TO
+
+---
+
+---
 
 ### Setting
 
@@ -18,6 +26,9 @@ For initial setting, please input your name and github nickname
 Name : 박찬호
 Github Nickname : charlieppark
 ```
+
+---
+---
 
 ### Daliy TIL
 
@@ -38,6 +49,9 @@ Choose a file you wanna commit :
 ```
 
 커밋 메시지의 통일성을 위해서 되도록 본 스크립트를 이용하여 커밋해주시길 바랍니다. 수동 커밋을 원할 경우, 스크립트 내에서 커밋 메시지 형식을 확인한 후 커밋하시길 바랍니다.
+
+---
+---
 
 ### Pull Request
 
