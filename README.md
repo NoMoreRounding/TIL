@@ -59,7 +59,7 @@ TIL 커밋을 마쳤다면, Pull Request를 열어 merge를 요청합니다
 
 Pull Request시 이름은
 
-<ID>(<날짜>)
+<이름>(<날짜>)
 
 ex) charlieppark(22-01-03)
 
