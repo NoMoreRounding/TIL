@@ -9,6 +9,10 @@ DIR_PATH="./TIL/${GITHUB_ID}"
 
 FILE_LIST=`git status ${DIR_PATH} | awk '/TIL/{print $1}'`
 
+if [ "${FILE_LIST}" = "modified:" ]; then
+	FILE_LIST=`git status ${DIR_PATH} | awk '/TIL/{print $2}'`
+fi
+
 if [ "${FILE_LIST}" ]; then
     echo "Choose a file you wanna commit :"
     select f in ${FILE_LIST}
